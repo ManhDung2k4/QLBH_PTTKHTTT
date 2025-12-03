@@ -1,0 +1,1109 @@
+[{
+  "_id": {
+    "$oid": "692ebdab9a4427387dcefceb"
+  },
+  "orderNumber": "ORD202512020001",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefcd7"
+  },
+  "customer": {
+    "name": "Nguyễn Văn An",
+    "phone": "0901234567",
+    "email": "nguyenvanan@gmail.com",
+    "address": "123 Lê Lợi, Quận 1, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcd2"
+      },
+      "productName": "OPPO Reno11 Pro",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/319096/oppo-reno11-pro-xanh-thumb-600x600.jpg",
+      "price": 11990000,
+      "quantity": 2,
+      "subtotal": 23980000,
+      "_id": {
+        "$oid": "692ebdab9a4427387dcefcec"
+      }
+    }
+  ],
+  "totalAmount": 23980000,
+  "discount": 0,
+  "finalAmount": 23980000,
+  "paymentMethod": "vnpay",
+  "paymentStatus": "paid",
+  "orderStatus": "confirmed",
+  "note": "Giao hàng giờ hành chính",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-11-18T04:42:51.386Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-18T04:42:51.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdab9a4427387dcefcee"
+  },
+  "orderNumber": "ORD202512020002",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefcd7"
+  },
+  "customer": {
+    "name": "Nguyễn Văn An",
+    "phone": "0901234567",
+    "email": "nguyenvanan@gmail.com",
+    "address": "123 Lê Lợi, Quận 1, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefccb"
+      },
+      "productName": "Samsung Galaxy S24 Ultra",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/307174/samsung-galaxy-s24-ultra-grey-thumbnew-600x600.jpg",
+      "price": 29990000,
+      "quantity": 2,
+      "subtotal": 59980000,
+      "_id": {
+        "$oid": "692ebdab9a4427387dcefcef"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcd3"
+      },
+      "productName": "Realme 12 Pro+",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/321365/realme-12-pro-plus-xanh-thumb-600x600.jpg",
+      "price": 9990000,
+      "quantity": 2,
+      "subtotal": 19980000,
+      "_id": {
+        "$oid": "692ebdab9a4427387dcefcf0"
+      }
+    }
+  ],
+  "totalAmount": 79960000,
+  "discount": 357341,
+  "finalAmount": 79602659,
+  "paymentMethod": "momo",
+  "paymentStatus": "paid",
+  "orderStatus": "delivered",
+  "note": "Giao hàng buổi tối",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-10-18T07:52:47.133Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-18T07:52:47.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdab9a4427387dcefcf7"
+  },
+  "orderNumber": "ORD202512020003",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefcd9"
+  },
+  "customer": {
+    "name": "Trần Thị Bình",
+    "phone": "0902345678",
+    "email": "tranthibinh@gmail.com",
+    "address": "456 Trần Hưng Đạo, Quận 5, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcd2"
+      },
+      "productName": "OPPO Reno11 Pro",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/319096/oppo-reno11-pro-xanh-thumb-600x600.jpg",
+      "price": 11990000,
+      "quantity": 1,
+      "subtotal": 11990000,
+      "_id": {
+        "$oid": "692ebdab9a4427387dcefcf8"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcce"
+      },
+      "productName": "Vivo X100 Pro",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/327974/vivo-x100-pro-blue-thumb-600x600.jpg",
+      "price": 21990000,
+      "quantity": 1,
+      "subtotal": 21990000,
+      "_id": {
+        "$oid": "692ebdab9a4427387dcefcf9"
+      }
+    }
+  ],
+  "totalAmount": 33980000,
+  "discount": 0,
+  "finalAmount": 33980000,
+  "paymentMethod": "credit_card",
+  "paymentStatus": "paid",
+  "orderStatus": "delivered",
+  "note": "Giao hàng giờ hành chính",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-10-20T14:33:34.249Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-20T14:33:34.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdac9a4427387dcefcfb"
+  },
+  "orderNumber": "ORD202512020004",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefcd9"
+  },
+  "customer": {
+    "name": "Trần Thị Bình",
+    "phone": "0902345678",
+    "email": "tranthibinh@gmail.com",
+    "address": "456 Trần Hưng Đạo, Quận 5, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefccc"
+      },
+      "productName": "Xiaomi 14 Ultra",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/320721/xiaomi-14-ultra-black-thumb-600x600.jpg",
+      "price": 24990000,
+      "quantity": 1,
+      "subtotal": 24990000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefcfc"
+      }
+    }
+  ],
+  "totalAmount": 24990000,
+  "discount": 130339,
+  "finalAmount": 24859661,
+  "paymentMethod": "cash",
+  "paymentStatus": "pending",
+  "orderStatus": "shipping",
+  "note": "Giao hàng buổi tối",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-10-29T00:01:08.089Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T00:01:08.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdac9a4427387dcefd03"
+  },
+  "orderNumber": "ORD202512020005",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefcdb"
+  },
+  "customer": {
+    "name": "Lê Văn Cường",
+    "phone": "0903456789",
+    "email": "levancuong@gmail.com",
+    "address": "789 Nguyễn Thị Minh Khai, Quận 3, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcd2"
+      },
+      "productName": "OPPO Reno11 Pro",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/319096/oppo-reno11-pro-xanh-thumb-600x600.jpg",
+      "price": 11990000,
+      "quantity": 2,
+      "subtotal": 23980000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefd04"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcd3"
+      },
+      "productName": "Realme 12 Pro+",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/321365/realme-12-pro-plus-xanh-thumb-600x600.jpg",
+      "price": 9990000,
+      "quantity": 1,
+      "subtotal": 9990000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefd05"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefccd"
+      },
+      "productName": "OPPO Find X7 Ultra",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/329900/oppo-find-x7-ultra-black-thumb-600x600.jpg",
+      "price": 22990000,
+      "quantity": 1,
+      "subtotal": 22990000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefd06"
+      }
+    }
+  ],
+  "totalAmount": 56960000,
+  "discount": 0,
+  "finalAmount": 56960000,
+  "paymentMethod": "vnpay",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "note": "Giao hàng giờ hành chính",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-10-24T01:31:58.963Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-24T01:31:58.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdac9a4427387dcefd08"
+  },
+  "orderNumber": "ORD202512020006",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefcdb"
+  },
+  "customer": {
+    "name": "Lê Văn Cường",
+    "phone": "0903456789",
+    "email": "levancuong@gmail.com",
+    "address": "789 Nguyễn Thị Minh Khai, Quận 3, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefccb"
+      },
+      "productName": "Samsung Galaxy S24 Ultra",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/307174/samsung-galaxy-s24-ultra-grey-thumbnew-600x600.jpg",
+      "price": 29990000,
+      "quantity": 1,
+      "subtotal": 29990000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefd09"
+      }
+    }
+  ],
+  "totalAmount": 29990000,
+  "discount": 112006,
+  "finalAmount": 29877994,
+  "paymentMethod": "cash",
+  "paymentStatus": "paid",
+  "orderStatus": "pending",
+  "note": "Giao hàng buổi tối",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-11-14T23:35:48.712Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T23:35:48.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdac9a4427387dcefd11"
+  },
+  "orderNumber": "ORD202512020007",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefcdd"
+  },
+  "customer": {
+    "name": "Phạm Thị Dung",
+    "phone": "0904567890",
+    "email": "phamthidung@gmail.com",
+    "address": "321 Võ Văn Tần, Quận 3, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefccb"
+      },
+      "productName": "Samsung Galaxy S24 Ultra",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/307174/samsung-galaxy-s24-ultra-grey-thumbnew-600x600.jpg",
+      "price": 29990000,
+      "quantity": 1,
+      "subtotal": 29990000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefd12"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcca"
+      },
+      "productName": "iPhone 15 Pro Max",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+      "price": 32990000,
+      "quantity": 1,
+      "subtotal": 32990000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefd13"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefccc"
+      },
+      "productName": "Xiaomi 14 Ultra",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/320721/xiaomi-14-ultra-black-thumb-600x600.jpg",
+      "price": 24990000,
+      "quantity": 2,
+      "subtotal": 49980000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefd14"
+      }
+    }
+  ],
+  "totalAmount": 112960000,
+  "discount": 0,
+  "finalAmount": 112960000,
+  "paymentMethod": "cash",
+  "paymentStatus": "paid",
+  "orderStatus": "delivered",
+  "note": "Giao hàng giờ hành chính",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-11-13T09:17:11.395Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T09:17:11.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdac9a4427387dcefd16"
+  },
+  "orderNumber": "ORD202512020008",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefcdd"
+  },
+  "customer": {
+    "name": "Phạm Thị Dung",
+    "phone": "0904567890",
+    "email": "phamthidung@gmail.com",
+    "address": "321 Võ Văn Tần, Quận 3, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcd0"
+      },
+      "productName": "Samsung Galaxy Z Fold5",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/305658/samsung-galaxy-z-fold5-cream-thumbnew-600x600.jpg",
+      "price": 35990000,
+      "quantity": 2,
+      "subtotal": 71980000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefd17"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefccd"
+      },
+      "productName": "OPPO Find X7 Ultra",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/329900/oppo-find-x7-ultra-black-thumb-600x600.jpg",
+      "price": 22990000,
+      "quantity": 2,
+      "subtotal": 45980000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefd18"
+      }
+    }
+  ],
+  "totalAmount": 117960000,
+  "discount": 280340,
+  "finalAmount": 117679660,
+  "paymentMethod": "vnpay",
+  "paymentStatus": "paid",
+  "orderStatus": "confirmed",
+  "note": "Giao hàng buổi tối",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-10-05T13:47:27.455Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T13:47:27.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdac9a4427387dcefd21"
+  },
+  "orderNumber": "ORD202512020009",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefcdf"
+  },
+  "customer": {
+    "name": "Hoàng Văn Em",
+    "phone": "0905678901",
+    "email": "hoangvanem@gmail.com",
+    "address": "654 Hai Bà Trưng, Quận 1, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefccc"
+      },
+      "productName": "Xiaomi 14 Ultra",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/320721/xiaomi-14-ultra-black-thumb-600x600.jpg",
+      "price": 24990000,
+      "quantity": 1,
+      "subtotal": 24990000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefd22"
+      }
+    }
+  ],
+  "totalAmount": 24990000,
+  "discount": 0,
+  "finalAmount": 24990000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "paid",
+  "orderStatus": "delivered",
+  "note": "Giao hàng giờ hành chính",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-10-15T02:09:05.797Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-15T02:09:05.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdac9a4427387dcefd24"
+  },
+  "orderNumber": "ORD202512020010",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefcdf"
+  },
+  "customer": {
+    "name": "Hoàng Văn Em",
+    "phone": "0905678901",
+    "email": "hoangvanem@gmail.com",
+    "address": "654 Hai Bà Trưng, Quận 1, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcce"
+      },
+      "productName": "Vivo X100 Pro",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/327974/vivo-x100-pro-blue-thumb-600x600.jpg",
+      "price": 21990000,
+      "quantity": 1,
+      "subtotal": 21990000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefd25"
+      }
+    }
+  ],
+  "totalAmount": 21990000,
+  "discount": 151119,
+  "finalAmount": 21838881,
+  "paymentMethod": "cash",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "note": "Giao hàng buổi tối",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-10-12T06:30:42.371Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-12T06:30:42.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdac9a4427387dcefd2b"
+  },
+  "orderNumber": "ORD202512020011",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefce1"
+  },
+  "customer": {
+    "name": "Võ Thị Phương",
+    "phone": "0906789012",
+    "email": "vothiphuong@gmail.com",
+    "address": "987 Pasteur, Quận 1, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcce"
+      },
+      "productName": "Vivo X100 Pro",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/327974/vivo-x100-pro-blue-thumb-600x600.jpg",
+      "price": 21990000,
+      "quantity": 1,
+      "subtotal": 21990000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefd2c"
+      }
+    }
+  ],
+  "totalAmount": 21990000,
+  "discount": 0,
+  "finalAmount": 21990000,
+  "paymentMethod": "credit_card",
+  "paymentStatus": "paid",
+  "orderStatus": "delivered",
+  "note": "Giao hàng giờ hành chính",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-10-14T23:13:28.647Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-14T23:13:28.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdac9a4427387dcefd2e"
+  },
+  "orderNumber": "ORD202512020012",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefce1"
+  },
+  "customer": {
+    "name": "Võ Thị Phương",
+    "phone": "0906789012",
+    "email": "vothiphuong@gmail.com",
+    "address": "987 Pasteur, Quận 1, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcce"
+      },
+      "productName": "Vivo X100 Pro",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/327974/vivo-x100-pro-blue-thumb-600x600.jpg",
+      "price": 21990000,
+      "quantity": 2,
+      "subtotal": 43980000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefd2f"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcd1"
+      },
+      "productName": "Xiaomi 13T Pro",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/309816/xiaomi-13t-pro-xanh-thumb-600x600.jpg",
+      "price": 13990000,
+      "quantity": 1,
+      "subtotal": 13990000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefd30"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefccd"
+      },
+      "productName": "OPPO Find X7 Ultra",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/329900/oppo-find-x7-ultra-black-thumb-600x600.jpg",
+      "price": 22990000,
+      "quantity": 2,
+      "subtotal": 45980000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefd31"
+      }
+    }
+  ],
+  "totalAmount": 103950000,
+  "discount": 166080,
+  "finalAmount": 103783920,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "paid",
+  "orderStatus": "delivered",
+  "note": "Giao hàng buổi tối",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-11-24T14:50:44.651Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-24T14:50:44.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdac9a4427387dcefd39"
+  },
+  "orderNumber": "ORD202512020013",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefce3"
+  },
+  "customer": {
+    "name": "Đặng Văn Giang",
+    "phone": "0907890123",
+    "email": "dangvangiang@gmail.com",
+    "address": "147 Nam Kỳ Khởi Nghĩa, Quận 3, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcd1"
+      },
+      "productName": "Xiaomi 13T Pro",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/309816/xiaomi-13t-pro-xanh-thumb-600x600.jpg",
+      "price": 13990000,
+      "quantity": 1,
+      "subtotal": 13990000,
+      "_id": {
+        "$oid": "692ebdac9a4427387dcefd3a"
+      }
+    }
+  ],
+  "totalAmount": 13990000,
+  "discount": 0,
+  "finalAmount": 13990000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "paid",
+  "orderStatus": "shipping",
+  "note": "Giao hàng giờ hành chính",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-10-31T01:07:21.130Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-31T01:07:21.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdad9a4427387dcefd3c"
+  },
+  "orderNumber": "ORD202512020014",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefce3"
+  },
+  "customer": {
+    "name": "Đặng Văn Giang",
+    "phone": "0907890123",
+    "email": "dangvangiang@gmail.com",
+    "address": "147 Nam Kỳ Khởi Nghĩa, Quận 3, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcce"
+      },
+      "productName": "Vivo X100 Pro",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/327974/vivo-x100-pro-blue-thumb-600x600.jpg",
+      "price": 21990000,
+      "quantity": 2,
+      "subtotal": 43980000,
+      "_id": {
+        "$oid": "692ebdad9a4427387dcefd3d"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcd0"
+      },
+      "productName": "Samsung Galaxy Z Fold5",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/305658/samsung-galaxy-z-fold5-cream-thumbnew-600x600.jpg",
+      "price": 35990000,
+      "quantity": 2,
+      "subtotal": 71980000,
+      "_id": {
+        "$oid": "692ebdad9a4427387dcefd3e"
+      }
+    }
+  ],
+  "totalAmount": 115960000,
+  "discount": 348360,
+  "finalAmount": 115611640,
+  "paymentMethod": "cash",
+  "paymentStatus": "paid",
+  "orderStatus": "delivered",
+  "note": "Giao hàng buổi tối",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-11-21T22:17:59.291Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-21T22:17:59.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdad9a4427387dcefd45"
+  },
+  "orderNumber": "ORD202512020015",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefce5"
+  },
+  "customer": {
+    "name": "Bùi Thị Hoa",
+    "phone": "0908901234",
+    "email": "buithihoa@gmail.com",
+    "address": "258 Điện Biên Phủ, Quận Bình Thạnh, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcd1"
+      },
+      "productName": "Xiaomi 13T Pro",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/309816/xiaomi-13t-pro-xanh-thumb-600x600.jpg",
+      "price": 13990000,
+      "quantity": 1,
+      "subtotal": 13990000,
+      "_id": {
+        "$oid": "692ebdad9a4427387dcefd46"
+      }
+    }
+  ],
+  "totalAmount": 13990000,
+  "discount": 0,
+  "finalAmount": 13990000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "paid",
+  "orderStatus": "delivered",
+  "note": "Giao hàng giờ hành chính",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-11-19T19:07:31.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-19T19:07:31.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdad9a4427387dcefd48"
+  },
+  "orderNumber": "ORD202512020016",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefce5"
+  },
+  "customer": {
+    "name": "Bùi Thị Hoa",
+    "phone": "0908901234",
+    "email": "buithihoa@gmail.com",
+    "address": "258 Điện Biên Phủ, Quận Bình Thạnh, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcd0"
+      },
+      "productName": "Samsung Galaxy Z Fold5",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/305658/samsung-galaxy-z-fold5-cream-thumbnew-600x600.jpg",
+      "price": 35990000,
+      "quantity": 1,
+      "subtotal": 35990000,
+      "_id": {
+        "$oid": "692ebdad9a4427387dcefd49"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcd3"
+      },
+      "productName": "Realme 12 Pro+",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/321365/realme-12-pro-plus-xanh-thumb-600x600.jpg",
+      "price": 9990000,
+      "quantity": 1,
+      "subtotal": 9990000,
+      "_id": {
+        "$oid": "692ebdad9a4427387dcefd4a"
+      }
+    }
+  ],
+  "totalAmount": 45980000,
+  "discount": 73773,
+  "finalAmount": 45906227,
+  "paymentMethod": "momo",
+  "paymentStatus": "pending",
+  "orderStatus": "confirmed",
+  "note": "Giao hàng buổi tối",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-11-25T21:14:42.348Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T15:14:48.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdad9a4427387dcefd51"
+  },
+  "orderNumber": "ORD202512020017",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefce7"
+  },
+  "customer": {
+    "name": "Ngô Văn Ích",
+    "phone": "0909012345",
+    "email": "ngovanich@gmail.com",
+    "address": "369 Cộng Hòa, Quận Tân Bình, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefccd"
+      },
+      "productName": "OPPO Find X7 Ultra",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/329900/oppo-find-x7-ultra-black-thumb-600x600.jpg",
+      "price": 22990000,
+      "quantity": 2,
+      "subtotal": 45980000,
+      "_id": {
+        "$oid": "692ebdad9a4427387dcefd52"
+      }
+    }
+  ],
+  "totalAmount": 45980000,
+  "discount": 0,
+  "finalAmount": 45980000,
+  "paymentMethod": "cash",
+  "paymentStatus": "paid",
+  "orderStatus": "delivered",
+  "note": "Giao hàng giờ hành chính",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-10-10T14:28:24.599Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-10T14:28:24.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdad9a4427387dcefd54"
+  },
+  "orderNumber": "ORD202512020018",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefce7"
+  },
+  "customer": {
+    "name": "Ngô Văn Ích",
+    "phone": "0909012345",
+    "email": "ngovanich@gmail.com",
+    "address": "369 Cộng Hòa, Quận Tân Bình, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcd3"
+      },
+      "productName": "Realme 12 Pro+",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/321365/realme-12-pro-plus-xanh-thumb-600x600.jpg",
+      "price": 9990000,
+      "quantity": 2,
+      "subtotal": 19980000,
+      "_id": {
+        "$oid": "692ebdad9a4427387dcefd55"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcca"
+      },
+      "productName": "iPhone 15 Pro Max",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+      "price": 32990000,
+      "quantity": 2,
+      "subtotal": 65980000,
+      "_id": {
+        "$oid": "692ebdad9a4427387dcefd56"
+      }
+    }
+  ],
+  "totalAmount": 85960000,
+  "discount": 375710,
+  "finalAmount": 85584290,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "pending",
+  "orderStatus": "pending",
+  "note": "Giao hàng buổi tối",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-11-15T20:08:59.185Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T20:08:59.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdad9a4427387dcefd5d"
+  },
+  "orderNumber": "ORD202512020019",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefce9"
+  },
+  "customer": {
+    "name": "Dương Thị Kim",
+    "phone": "0910123456",
+    "email": "duongthikim@gmail.com",
+    "address": "741 Lý Thường Kiệt, Quận 10, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcce"
+      },
+      "productName": "Vivo X100 Pro",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/327974/vivo-x100-pro-blue-thumb-600x600.jpg",
+      "price": 21990000,
+      "quantity": 1,
+      "subtotal": 21990000,
+      "_id": {
+        "$oid": "692ebdad9a4427387dcefd5e"
+      }
+    }
+  ],
+  "totalAmount": 21990000,
+  "discount": 0,
+  "finalAmount": 21990000,
+  "paymentMethod": "bank_transfer",
+  "paymentStatus": "paid",
+  "orderStatus": "delivered",
+  "note": "Giao hàng giờ hành chính",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-10-11T03:55:07.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-11T03:55:07.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692ebdad9a4427387dcefd60"
+  },
+  "orderNumber": "ORD202512020020",
+  "userId": {
+    "$oid": "692ebdab9a4427387dcefce9"
+  },
+  "customer": {
+    "name": "Dương Thị Kim",
+    "phone": "0910123456",
+    "email": "duongthikim@gmail.com",
+    "address": "741 Lý Thường Kiệt, Quận 10, TP.HCM"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefcce"
+      },
+      "productName": "Vivo X100 Pro",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/327974/vivo-x100-pro-blue-thumb-600x600.jpg",
+      "price": 21990000,
+      "quantity": 2,
+      "subtotal": 43980000,
+      "_id": {
+        "$oid": "692ebdad9a4427387dcefd61"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "692ebdab9a4427387dcefccb"
+      },
+      "productName": "Samsung Galaxy S24 Ultra",
+      "productImage": "https://cdn.tgdd.vn/Products/Images/42/307174/samsung-galaxy-s24-ultra-grey-thumbnew-600x600.jpg",
+      "price": 29990000,
+      "quantity": 2,
+      "subtotal": 59980000,
+      "_id": {
+        "$oid": "692ebdad9a4427387dcefd62"
+      }
+    }
+  ],
+  "totalAmount": 103960000,
+  "discount": 393987,
+  "finalAmount": 103566013,
+  "paymentMethod": "cash",
+  "paymentStatus": "paid",
+  "orderStatus": "confirmed",
+  "note": "Giao hàng buổi tối",
+  "createdBy": {
+    "$oid": "692ebdab9a4427387dcefcd5"
+  },
+  "createdAt": {
+    "$date": "2025-11-16T07:25:05.143Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:25:05.143Z"
+  },
+  "__v": 0
+}]

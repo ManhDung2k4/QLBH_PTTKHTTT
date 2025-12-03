@@ -1,0 +1,409 @@
+[{
+  "_id": {
+    "$oid": "692ebdab9a4427387dcefcca"
+  },
+  "title": "iPhone 15 Pro Max",
+  "description": "iPhone 15 Pro Max với chip A17 Pro mạnh mẽ, camera 48MP, màn hình Dynamic Island",
+  "price": 32990000,
+  "discountPercentage": 5,
+  "rating": 4.9,
+  "stock": 50,
+  "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+    "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-1-1.jpg"
+  ],
+  "isActive": true,
+  "slug": "iphone-15-pro-max",
+  "brand": "Apple",
+  "category": "smartphone",
+  "screen": "6.7 inch, Super Retina XDR OLED",
+  "os": "iOS 17",
+  "camera": "48MP + 12MP + 12MP",
+  "cameraFront": "12MP",
+  "cpu": "Apple A17 Pro",
+  "ram": "8GB",
+  "rom": "256GB",
+  "battery": "4422mAh",
+  "sim": "2 Nano SIM hoặc 1 Nano SIM + 1 eSIM",
+  "weight": "221g",
+  "colors": [
+    "Titan Tự Nhiên",
+    "Titan Xanh",
+    "Titan Trắng",
+    "Titan Đen"
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-02T10:21:31.328Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T10:21:31.328Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692ebdab9a4427387dcefccb"
+  },
+  "title": "Samsung Galaxy S24 Ultra",
+  "description": "Samsung Galaxy S24 Ultra với bút S Pen tích hợp, camera 200MP, chip Snapdragon 8 Gen 3",
+  "price": 29990000,
+  "discountPercentage": 8,
+  "rating": 4.8,
+  "stock": 45,
+  "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/307174/samsung-galaxy-s24-ultra-grey-thumbnew-600x600.jpg",
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/307174/samsung-galaxy-s24-ultra-grey-thumbnew-600x600.jpg"
+  ],
+  "isActive": true,
+  "slug": "samsung-galaxy-s24-ultra",
+  "brand": "Samsung",
+  "category": "smartphone",
+  "screen": "6.8 inch, Dynamic AMOLED 2X",
+  "os": "Android 14",
+  "camera": "200MP + 50MP + 12MP + 10MP",
+  "cameraFront": "12MP",
+  "cpu": "Snapdragon 8 Gen 3 For Galaxy",
+  "ram": "12GB",
+  "rom": "256GB",
+  "battery": "5000mAh",
+  "sim": "2 Nano SIM hoặc 1 Nano SIM + 1 eSIM",
+  "weight": "232g",
+  "colors": [
+    "Xám",
+    "Tím",
+    "Vàng",
+    "Đen"
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-02T10:21:31.329Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T10:21:31.329Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692ebdab9a4427387dcefccc"
+  },
+  "title": "Xiaomi 14 Ultra",
+  "description": "Xiaomi 14 Ultra với camera Leica, chip Snapdragon 8 Gen 3, sạc nhanh 90W",
+  "price": 24990000,
+  "discountPercentage": 10,
+  "rating": 4.7,
+  "stock": 40,
+  "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/313889/xiaomi-14-ultra-black-thumbnew-600x600.jpg",
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/320721/xiaomi-14-ultra-black-thumb-600x600.jpg"
+  ],
+  "isActive": true,
+  "slug": "xiaomi-14-ultra",
+  "brand": "Xiaomi",
+  "category": "smartphone",
+  "screen": "6.73 inch, AMOLED",
+  "os": "Android 14",
+  "camera": "50MP + 50MP + 50MP + 50MP (Leica)",
+  "cameraFront": "32MP",
+  "cpu": "Snapdragon 8 Gen 3",
+  "ram": "16GB",
+  "rom": "512GB",
+  "battery": "5000mAh, 90W",
+  "sim": "2 Nano SIM",
+  "weight": "219.8g",
+  "colors": [
+    "Đen",
+    "Trắng"
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-02T10:21:31.330Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T15:55:05.404Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692ebdab9a4427387dcefccd"
+  },
+  "title": "OPPO Find X7 Ultra",
+  "description": "OPPO Find X7 Ultra với camera Hasselblad, chip Snapdragon 8 Gen 3",
+  "price": 22990000,
+  "discountPercentage": 7,
+  "rating": 4.6,
+  "stock": 35,
+  "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/320724/oppo-find-x7-ultra-221223-104455-600x600.jpg",
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/329900/oppo-find-x7-ultra-black-thumb-600x600.jpg"
+  ],
+  "isActive": true,
+  "slug": "oppo-find-x7-ultra",
+  "brand": "OPPO",
+  "category": "smartphone",
+  "screen": "6.82 inch, AMOLED",
+  "os": "Android 14",
+  "camera": "50MP + 50MP + 50MP + 50MP (Hasselblad)",
+  "cameraFront": "32MP",
+  "cpu": "Snapdragon 8 Gen 3",
+  "ram": "16GB",
+  "rom": "512GB",
+  "battery": "5000mAh, 100W",
+  "sim": "2 Nano SIM",
+  "weight": "221g",
+  "colors": [
+    "Đen",
+    "Nâu"
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-02T10:21:31.330Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T15:54:44.551Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692ebdab9a4427387dcefcce"
+  },
+  "title": "Vivo X100 Pro",
+  "description": "Vivo X100 Pro với camera Zeiss, chip MediaTek Dimensity 9300",
+  "price": 21990000,
+  "discountPercentage": 6,
+  "rating": 4.6,
+  "stock": 30,
+  "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/307006/product-307006-090523-041144-600x600.jpeg",
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/327974/vivo-x100-pro-blue-thumb-600x600.jpg"
+  ],
+  "isActive": true,
+  "slug": "vivo-x100-pro",
+  "brand": "Vivo",
+  "category": "smartphone",
+  "screen": "6.78 inch, AMOLED",
+  "os": "Android 14",
+  "camera": "50MP + 50MP + 50MP (Zeiss)",
+  "cameraFront": "32MP",
+  "cpu": "MediaTek Dimensity 9300",
+  "ram": "16GB",
+  "rom": "512GB",
+  "battery": "5400mAh, 100W",
+  "sim": "2 Nano SIM",
+  "weight": "221g",
+  "colors": [
+    "Xanh",
+    "Đen",
+    "Cam"
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-02T10:21:31.330Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T15:53:44.263Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692ebdab9a4427387dcefccf"
+  },
+  "title": "iPhone 14 Pro",
+  "description": "iPhone 14 Pro với chip A16 Bionic, màn hình Dynamic Island, camera 48MP",
+  "price": 24990000,
+  "discountPercentage": 15,
+  "rating": 4.8,
+  "stock": 60,
+  "thumbnail": "https://cdn.tgdd.vn/Products/Images/1363/291962/mieng-dan-man-hinh-iphone-14-pro-ub-thumb-600x600.jpg",
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/289700/iphone-14-pro-purple-thumb-600x600.jpg"
+  ],
+  "isActive": true,
+  "slug": "iphone-14-pro",
+  "brand": "Apple",
+  "category": "smartphone",
+  "screen": "6.1 inch, Super Retina XDR OLED",
+  "os": "iOS 16",
+  "camera": "48MP + 12MP + 12MP",
+  "cameraFront": "12MP",
+  "cpu": "Apple A16 Bionic",
+  "ram": "6GB",
+  "rom": "256GB",
+  "battery": "3200mAh",
+  "sim": "1 Nano SIM + 1 eSIM",
+  "weight": "206g",
+  "colors": [
+    "Tím",
+    "Vàng",
+    "Đen",
+    "Bạc"
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-02T10:21:31.330Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T15:54:07.023Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692ebdab9a4427387dcefcd0"
+  },
+  "title": "Samsung Galaxy Z Fold5",
+  "description": "Samsung Galaxy Z Fold5 - điện thoại gập với màn hình lớn, chip Snapdragon 8 Gen 2",
+  "price": 35990000,
+  "discountPercentage": 12,
+  "rating": 4.7,
+  "stock": 25,
+  "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/310805/samsung-galaxy-z-fold5-%20den-600x600.jpg",
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/305658/samsung-galaxy-z-fold5-cream-thumbnew-600x600.jpg"
+  ],
+  "isActive": true,
+  "slug": "samsung-galaxy-z-fold5",
+  "brand": "Samsung",
+  "category": "smartphone",
+  "screen": "7.6 inch (chính), 6.2 inch (phụ), Dynamic AMOLED 2X",
+  "os": "Android 13",
+  "camera": "50MP + 12MP + 10MP",
+  "cameraFront": "10MP + 4MP",
+  "cpu": "Snapdragon 8 Gen 2 For Galaxy",
+  "ram": "12GB",
+  "rom": "256GB",
+  "battery": "4400mAh",
+  "sim": "2 Nano SIM hoặc 1 Nano SIM + 1 eSIM",
+  "weight": "253g",
+  "colors": [
+    "Kem",
+    "Đen",
+    "Xanh"
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-02T10:21:31.330Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T15:55:25.204Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692ebdab9a4427387dcefcd1"
+  },
+  "title": "Xiaomi 13T Pro",
+  "description": "Xiaomi 13T Pro với camera Leica, chip MediaTek Dimensity 9200+, sạc nhanh 120W",
+  "price": 13990000,
+  "discountPercentage": 18,
+  "rating": 4.5,
+  "stock": 55,
+  "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/309816/xiaomi-13t-pro-xanh-thumb-600x600.jpg",
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/309816/xiaomi-13t-pro-xanh-thumb-600x600.jpg"
+  ],
+  "isActive": true,
+  "slug": "xiaomi-13t-pro",
+  "brand": "Xiaomi",
+  "category": "smartphone",
+  "screen": "6.67 inch, AMOLED",
+  "os": "Android 13",
+  "camera": "50MP + 50MP + 12MP (Leica)",
+  "cameraFront": "20MP",
+  "cpu": "MediaTek Dimensity 9200+",
+  "ram": "12GB",
+  "rom": "256GB",
+  "battery": "5000mAh, 120W",
+  "sim": "2 Nano SIM",
+  "weight": "200g",
+  "colors": [
+    "Xanh",
+    "Đen"
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-02T10:21:31.330Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T10:21:31.330Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692ebdab9a4427387dcefcd2"
+  },
+  "title": "OPPO Reno11 Pro",
+  "description": "OPPO Reno11 Pro với camera chân dung 32MP, chip MediaTek Dimensity 8200",
+  "price": 11990000,
+  "discountPercentage": 10,
+  "rating": 4.4,
+  "stock": 50,
+  "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/314210/oppo-reno-11-pro-xam-thumb-600x600.jpg",
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/319096/oppo-reno11-pro-xanh-thumb-600x600.jpg"
+  ],
+  "isActive": true,
+  "slug": "oppo-reno11-pro",
+  "brand": "OPPO",
+  "category": "smartphone",
+  "screen": "6.74 inch, AMOLED",
+  "os": "Android 14",
+  "camera": "50MP + 32MP + 8MP",
+  "cameraFront": "32MP",
+  "cpu": "MediaTek Dimensity 8200",
+  "ram": "12GB",
+  "rom": "256GB",
+  "battery": "4600mAh, 80W",
+  "sim": "2 Nano SIM",
+  "weight": "190g",
+  "colors": [
+    "Xanh",
+    "Tím"
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-02T10:21:31.330Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T15:52:47.528Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "692ebdab9a4427387dcefcd3"
+  },
+  "title": "Realme 12 Pro+",
+  "description": "Realme 12 Pro+ với camera tele 64MP, chip Snapdragon 7s Gen 2",
+  "price": 9990000,
+  "discountPercentage": 12,
+  "rating": 4.3,
+  "stock": 70,
+  "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/320486/product-320486-181223-051920-600x600.jpeg",
+  "images": [
+    "https://cdn.tgdd.vn/Products/Images/42/321365/realme-12-pro-plus-xanh-thumb-600x600.jpg"
+  ],
+  "isActive": true,
+  "slug": "realme-12-pro-plus",
+  "brand": "Realme",
+  "category": "smartphone",
+  "screen": "6.7 inch, AMOLED",
+  "os": "Android 14",
+  "camera": "50MP + 64MP + 8MP",
+  "cameraFront": "32MP",
+  "cpu": "Snapdragon 7s Gen 2",
+  "ram": "12GB",
+  "rom": "256GB",
+  "battery": "5000mAh, 67W",
+  "sim": "2 Nano SIM",
+  "weight": "196g",
+  "colors": [
+    "Xanh",
+    "Vàng"
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-12-02T10:21:31.330Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-02T15:53:17.339Z"
+  }
+}]
