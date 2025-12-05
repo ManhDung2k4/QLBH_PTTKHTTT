@@ -18,7 +18,15 @@ const Login = () => {
 
   useEffect(() => {
     if (!user) return;
-    if (user.role === "user") navigate("/home");
+
+    // Redirect based on user role
+    if (user.role === "admin") {
+      navigate("/admin");
+    } else if (user.role === "staff") {
+      navigate("/staff");
+    } else if (user.role === "user") {
+      navigate("/");
+    }
   }, [user, navigate]);
 
   const handleSubmit = async (e: React.FormEvent) => {

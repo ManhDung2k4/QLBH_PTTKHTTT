@@ -181,7 +181,11 @@ const ProfilePage: React.FC = () => {
               </h2>
               <p className="text-gray-500 text-sm mb-1">@{profile.username}</p>
               <span className="px-4 py-1 rounded-full text-sm font-semibold bg-gradient-to-r from-teal-500 to-teal-600 text-white shadow-md mt-2">
-                {profile.role === "admin" ? "Quản trị viên" : "Khách hàng"}
+                {profile.role === "admin"
+                  ? "Quản trị viên"
+                  : profile.role === "staff"
+                  ? "Nhân viên"
+                  : "Khách hàng"}
               </span>
             </div>
 

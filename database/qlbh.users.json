@@ -1,272 +1,318 @@
-[{
-  "_id": {
-    "$oid": "692ebdab9a4427387dcefcd5"
+[
+  {
+    "_id": {
+      "$oid": "692ebdab9a4427387dcefcd5"
+    },
+    "username": "admin",
+    "password": "123456",
+    "fullName": "Quản Trị Viên",
+    "email": "admin@phonestore.com",
+    "phone": "0900000000",
+    "address": "Văn phòng chính - 123 Nguyễn Huệ, Quận 1, TP.HCM",
+    "role": "admin",
+    "isActive": true,
+    "totalOrders": 0,
+    "totalSpent": 0,
+    "createdAt": {
+      "$date": "2025-12-02T10:21:31.375Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-02T15:02:24.338Z"
+    },
+    "__v": 0
   },
-  "username": "admin",
-  "password": "123456",
-  "fullName": "Quản Trị Viên",
-  "email": "admin@phonestore.com",
-  "phone": "0900000000",
-  "address": "Văn phòng chính - 123 Nguyễn Huệ, Quận 1, TP.HCM",
-  "role": "admin",
-  "isActive": true,
-  "totalOrders": 0,
-  "totalSpent": 0,
-  "createdAt": {
-    "$date": "2025-12-02T10:21:31.375Z"
+  {
+    "_id": {
+      "$oid": "692ebdab9a4427387dcefcd7"
+    },
+    "username": "user1",
+    "password": "123456",
+    "fullName": "Nguyễn Văn An",
+    "email": "nguyenvanan@gmail.com",
+    "phone": "0901234567",
+    "address": "123 Lê Lợi, Quận 1, TP.HCM",
+    "role": "user",
+    "isActive": true,
+    "totalOrders": 2,
+    "totalSpent": 103582659,
+    "createdAt": {
+      "$date": "2025-12-02T10:21:31.408Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-02T10:21:31.928Z"
+    },
+    "__v": 0,
+    "lastOrderDate": {
+      "$date": "2025-11-18T04:42:51.386Z"
+    }
   },
-  "updatedAt": {
-    "$date": "2025-12-02T15:02:24.338Z"
+  {
+    "_id": {
+      "$oid": "692ebdab9a4427387dcefcd9"
+    },
+    "username": "user2",
+    "password": "123456",
+    "fullName": "Trần Thị Bình",
+    "email": "tranthibinh@gmail.com",
+    "phone": "0902345678",
+    "address": "456 Trần Hưng Đạo, Quận 5, TP.HCM",
+    "role": "user",
+    "isActive": true,
+    "totalOrders": 2,
+    "totalSpent": 58839661,
+    "createdAt": {
+      "$date": "2025-12-02T10:21:31.442Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-02T10:21:32.110Z"
+    },
+    "__v": 0,
+    "lastOrderDate": {
+      "$date": "2025-10-29T00:01:08.089Z"
+    }
   },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "692ebdab9a4427387dcefcd7"
+  {
+    "_id": {
+      "$oid": "692ebdab9a4427387dcefcdb"
+    },
+    "username": "user3",
+    "password": "123456",
+    "fullName": "Lê Văn Cường",
+    "email": "levancuong@gmail.com",
+    "phone": "0903456789",
+    "address": "789 Nguyễn Thị Minh Khai, Quận 3, TP.HCM",
+    "role": "user",
+    "isActive": true,
+    "totalOrders": 2,
+    "totalSpent": 86837994,
+    "createdAt": {
+      "$date": "2025-12-02T10:21:31.472Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-02T10:21:32.239Z"
+    },
+    "__v": 0,
+    "lastOrderDate": {
+      "$date": "2025-11-14T23:35:48.712Z"
+    }
   },
-  "username": "user1",
-  "password": "123456",
-  "fullName": "Nguyễn Văn An",
-  "email": "nguyenvanan@gmail.com",
-  "phone": "0901234567",
-  "address": "123 Lê Lợi, Quận 1, TP.HCM",
-  "role": "user",
-  "isActive": true,
-  "totalOrders": 2,
-  "totalSpent": 103582659,
-  "createdAt": {
-    "$date": "2025-12-02T10:21:31.408Z"
+  {
+    "_id": {
+      "$oid": "692ebdab9a4427387dcefcdd"
+    },
+    "username": "user4",
+    "password": "123456",
+    "fullName": "Phạm Thị Dung",
+    "email": "phamthidung@gmail.com",
+    "phone": "0904567890",
+    "address": "321 Võ Văn Tần, Quận 3, TP.HCM",
+    "role": "user",
+    "isActive": true,
+    "totalOrders": 2,
+    "totalSpent": 230639660,
+    "createdAt": {
+      "$date": "2025-12-02T10:21:31.502Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-02T10:21:32.564Z"
+    },
+    "__v": 0,
+    "lastOrderDate": {
+      "$date": "2025-11-13T09:17:11.395Z"
+    }
   },
-  "updatedAt": {
-    "$date": "2025-12-02T10:21:31.928Z"
+  {
+    "_id": {
+      "$oid": "692ebdab9a4427387dcefcdf"
+    },
+    "username": "user5",
+    "password": "123456",
+    "fullName": "Hoàng Văn Em",
+    "email": "hoangvanem@gmail.com",
+    "phone": "0905678901",
+    "address": "654 Hai Bà Trưng, Quận 1, TP.HCM",
+    "role": "user",
+    "isActive": true,
+    "totalOrders": 2,
+    "totalSpent": 46828881,
+    "createdAt": {
+      "$date": "2025-12-02T10:21:31.533Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-02T10:21:32.735Z"
+    },
+    "__v": 0,
+    "lastOrderDate": {
+      "$date": "2025-10-15T02:09:05.797Z"
+    }
   },
-  "__v": 0,
-  "lastOrderDate": {
-    "$date": "2025-11-18T04:42:51.386Z"
+  {
+    "_id": {
+      "$oid": "692ebdab9a4427387dcefce1"
+    },
+    "username": "user6",
+    "password": "123456",
+    "fullName": "Võ Thị Phương",
+    "email": "vothiphuong@gmail.com",
+    "phone": "0906789012",
+    "address": "987 Pasteur, Quận 1, TP.HCM",
+    "role": "user",
+    "isActive": true,
+    "totalOrders": 2,
+    "totalSpent": 125773920,
+    "createdAt": {
+      "$date": "2025-12-02T10:21:31.564Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-02T10:21:32.949Z"
+    },
+    "__v": 0,
+    "lastOrderDate": {
+      "$date": "2025-11-24T14:50:44.651Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692ebdab9a4427387dcefce3"
+    },
+    "username": "user7",
+    "password": "123456",
+    "fullName": "Đặng Văn Giang",
+    "email": "dangvangiang@gmail.com",
+    "phone": "0907890123",
+    "address": "147 Nam Kỳ Khởi Nghĩa, Quận 3, TP.HCM",
+    "role": "user",
+    "isActive": true,
+    "totalOrders": 2,
+    "totalSpent": 129601640,
+    "createdAt": {
+      "$date": "2025-12-02T10:21:31.599Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-02T10:21:33.140Z"
+    },
+    "__v": 0,
+    "lastOrderDate": {
+      "$date": "2025-11-21T22:17:59.291Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692ebdab9a4427387dcefce5"
+    },
+    "username": "user8",
+    "password": "123456",
+    "fullName": "Bùi Thị Hoa",
+    "email": "buithihoa@gmail.com",
+    "phone": "0908901234",
+    "address": "258 Điện Biên Phủ, Quận Bình Thạnh, TP.HCM",
+    "role": "user",
+    "isActive": true,
+    "totalOrders": 2,
+    "totalSpent": 59896227,
+    "createdAt": {
+      "$date": "2025-12-02T10:21:31.631Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-02T10:21:33.308Z"
+    },
+    "__v": 0,
+    "lastOrderDate": {
+      "$date": "2025-11-25T21:14:42.348Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692ebdab9a4427387dcefce7"
+    },
+    "username": "user9",
+    "password": "123456",
+    "fullName": "Ngô Văn Ích",
+    "email": "ngovanich@gmail.com",
+    "phone": "0909012345",
+    "address": "369 Cộng Hòa, Quận Tân Bình, TP.HCM",
+    "role": "user",
+    "isActive": true,
+    "totalOrders": 2,
+    "totalSpent": 131564290,
+    "createdAt": {
+      "$date": "2025-12-02T10:21:31.665Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-02T10:21:33.448Z"
+    },
+    "__v": 0,
+    "lastOrderDate": {
+      "$date": "2025-11-15T20:08:59.185Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692ebdab9a4427387dcefce9"
+    },
+    "username": "user10",
+    "password": "123456",
+    "fullName": "Dương Thị Kim",
+    "email": "duongthikim@gmail.com",
+    "phone": "0910123456",
+    "address": "741 Lý Thường Kiệt, Quận 10, TP.HCM",
+    "role": "user",
+    "isActive": true,
+    "totalOrders": 2,
+    "totalSpent": 125556013,
+    "createdAt": {
+      "$date": "2025-12-02T10:21:31.699Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-02T15:06:47.826Z"
+    },
+    "__v": 0,
+    "lastOrderDate": {
+      "$date": "2025-11-16T07:25:05.143Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "675178a19a4427387dcefce1"
+    },
+    "username": "staff1",
+    "password": "123456",
+    "fullName": "Trần Thị Minh",
+    "email": "staff1@phonestore.com",
+    "phone": "0912345671",
+    "address": "456 Lê Văn Sỹ, Quận 3, TP.HCM",
+    "role": "staff",
+    "isActive": true,
+    "totalOrders": 0,
+    "totalSpent": 0,
+    "createdAt": {
+      "$date": "2025-12-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-05T08:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "675178a29a4427387dcefce2"
+    },
+    "username": "staff2",
+    "password": "123456",
+    "fullName": "Lê Văn Hùng",
+    "email": "staff2@phonestore.com",
+    "phone": "0912345672",
+    "address": "789 Võ Văn Tần, Quận 3, TP.HCM",
+    "role": "staff",
+    "isActive": true,
+    "totalOrders": 0,
+    "totalSpent": 0,
+    "createdAt": {
+      "$date": "2025-12-05T08:00:00.000Z"
+    },
+    "updatedAt": {
+      "$date": "2025-12-05T08:00:00.000Z"
+    },
+    "__v": 0
   }
-},
-{
-  "_id": {
-    "$oid": "692ebdab9a4427387dcefcd9"
-  },
-  "username": "user2",
-  "password": "123456",
-  "fullName": "Trần Thị Bình",
-  "email": "tranthibinh@gmail.com",
-  "phone": "0902345678",
-  "address": "456 Trần Hưng Đạo, Quận 5, TP.HCM",
-  "role": "user",
-  "isActive": true,
-  "totalOrders": 2,
-  "totalSpent": 58839661,
-  "createdAt": {
-    "$date": "2025-12-02T10:21:31.442Z"
-  },
-  "updatedAt": {
-    "$date": "2025-12-02T10:21:32.110Z"
-  },
-  "__v": 0,
-  "lastOrderDate": {
-    "$date": "2025-10-29T00:01:08.089Z"
-  }
-},
-{
-  "_id": {
-    "$oid": "692ebdab9a4427387dcefcdb"
-  },
-  "username": "user3",
-  "password": "123456",
-  "fullName": "Lê Văn Cường",
-  "email": "levancuong@gmail.com",
-  "phone": "0903456789",
-  "address": "789 Nguyễn Thị Minh Khai, Quận 3, TP.HCM",
-  "role": "user",
-  "isActive": true,
-  "totalOrders": 2,
-  "totalSpent": 86837994,
-  "createdAt": {
-    "$date": "2025-12-02T10:21:31.472Z"
-  },
-  "updatedAt": {
-    "$date": "2025-12-02T10:21:32.239Z"
-  },
-  "__v": 0,
-  "lastOrderDate": {
-    "$date": "2025-11-14T23:35:48.712Z"
-  }
-},
-{
-  "_id": {
-    "$oid": "692ebdab9a4427387dcefcdd"
-  },
-  "username": "user4",
-  "password": "123456",
-  "fullName": "Phạm Thị Dung",
-  "email": "phamthidung@gmail.com",
-  "phone": "0904567890",
-  "address": "321 Võ Văn Tần, Quận 3, TP.HCM",
-  "role": "user",
-  "isActive": true,
-  "totalOrders": 2,
-  "totalSpent": 230639660,
-  "createdAt": {
-    "$date": "2025-12-02T10:21:31.502Z"
-  },
-  "updatedAt": {
-    "$date": "2025-12-02T10:21:32.564Z"
-  },
-  "__v": 0,
-  "lastOrderDate": {
-    "$date": "2025-11-13T09:17:11.395Z"
-  }
-},
-{
-  "_id": {
-    "$oid": "692ebdab9a4427387dcefcdf"
-  },
-  "username": "user5",
-  "password": "123456",
-  "fullName": "Hoàng Văn Em",
-  "email": "hoangvanem@gmail.com",
-  "phone": "0905678901",
-  "address": "654 Hai Bà Trưng, Quận 1, TP.HCM",
-  "role": "user",
-  "isActive": true,
-  "totalOrders": 2,
-  "totalSpent": 46828881,
-  "createdAt": {
-    "$date": "2025-12-02T10:21:31.533Z"
-  },
-  "updatedAt": {
-    "$date": "2025-12-02T10:21:32.735Z"
-  },
-  "__v": 0,
-  "lastOrderDate": {
-    "$date": "2025-10-15T02:09:05.797Z"
-  }
-},
-{
-  "_id": {
-    "$oid": "692ebdab9a4427387dcefce1"
-  },
-  "username": "user6",
-  "password": "123456",
-  "fullName": "Võ Thị Phương",
-  "email": "vothiphuong@gmail.com",
-  "phone": "0906789012",
-  "address": "987 Pasteur, Quận 1, TP.HCM",
-  "role": "user",
-  "isActive": true,
-  "totalOrders": 2,
-  "totalSpent": 125773920,
-  "createdAt": {
-    "$date": "2025-12-02T10:21:31.564Z"
-  },
-  "updatedAt": {
-    "$date": "2025-12-02T10:21:32.949Z"
-  },
-  "__v": 0,
-  "lastOrderDate": {
-    "$date": "2025-11-24T14:50:44.651Z"
-  }
-},
-{
-  "_id": {
-    "$oid": "692ebdab9a4427387dcefce3"
-  },
-  "username": "user7",
-  "password": "123456",
-  "fullName": "Đặng Văn Giang",
-  "email": "dangvangiang@gmail.com",
-  "phone": "0907890123",
-  "address": "147 Nam Kỳ Khởi Nghĩa, Quận 3, TP.HCM",
-  "role": "user",
-  "isActive": true,
-  "totalOrders": 2,
-  "totalSpent": 129601640,
-  "createdAt": {
-    "$date": "2025-12-02T10:21:31.599Z"
-  },
-  "updatedAt": {
-    "$date": "2025-12-02T10:21:33.140Z"
-  },
-  "__v": 0,
-  "lastOrderDate": {
-    "$date": "2025-11-21T22:17:59.291Z"
-  }
-},
-{
-  "_id": {
-    "$oid": "692ebdab9a4427387dcefce5"
-  },
-  "username": "user8",
-  "password": "123456",
-  "fullName": "Bùi Thị Hoa",
-  "email": "buithihoa@gmail.com",
-  "phone": "0908901234",
-  "address": "258 Điện Biên Phủ, Quận Bình Thạnh, TP.HCM",
-  "role": "user",
-  "isActive": true,
-  "totalOrders": 2,
-  "totalSpent": 59896227,
-  "createdAt": {
-    "$date": "2025-12-02T10:21:31.631Z"
-  },
-  "updatedAt": {
-    "$date": "2025-12-02T10:21:33.308Z"
-  },
-  "__v": 0,
-  "lastOrderDate": {
-    "$date": "2025-11-25T21:14:42.348Z"
-  }
-},
-{
-  "_id": {
-    "$oid": "692ebdab9a4427387dcefce7"
-  },
-  "username": "user9",
-  "password": "123456",
-  "fullName": "Ngô Văn Ích",
-  "email": "ngovanich@gmail.com",
-  "phone": "0909012345",
-  "address": "369 Cộng Hòa, Quận Tân Bình, TP.HCM",
-  "role": "user",
-  "isActive": true,
-  "totalOrders": 2,
-  "totalSpent": 131564290,
-  "createdAt": {
-    "$date": "2025-12-02T10:21:31.665Z"
-  },
-  "updatedAt": {
-    "$date": "2025-12-02T10:21:33.448Z"
-  },
-  "__v": 0,
-  "lastOrderDate": {
-    "$date": "2025-11-15T20:08:59.185Z"
-  }
-},
-{
-  "_id": {
-    "$oid": "692ebdab9a4427387dcefce9"
-  },
-  "username": "user10",
-  "password": "123456",
-  "fullName": "Dương Thị Kim",
-  "email": "duongthikim@gmail.com",
-  "phone": "0910123456",
-  "address": "741 Lý Thường Kiệt, Quận 10, TP.HCM",
-  "role": "user",
-  "isActive": true,
-  "totalOrders": 2,
-  "totalSpent": 125556013,
-  "createdAt": {
-    "$date": "2025-12-02T10:21:31.699Z"
-  },
-  "updatedAt": {
-    "$date": "2025-12-02T15:06:47.826Z"
-  },
-  "__v": 0,
-  "lastOrderDate": {
-    "$date": "2025-11-16T07:25:05.143Z"
-  }
-}]
+]

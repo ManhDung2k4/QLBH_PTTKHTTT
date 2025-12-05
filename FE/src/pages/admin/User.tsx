@@ -17,7 +17,7 @@ interface User {
   email?: string;
   phone?: string;
   address?: string;
-  role: "admin" | "user";
+  role: "admin" | "staff" | "user";
   isActive: boolean;
   totalOrders?: number;
   totalSpent?: number;
@@ -41,7 +41,7 @@ const UserManagement: React.FC = () => {
     email: "",
     phone: "",
     address: "",
-    role: "user" as "admin" | "user",
+    role: "user" as "admin" | "staff" | "user",
     isActive: true,
   });
   const [passwordData, setPasswordData] = useState({
@@ -347,6 +347,10 @@ const UserManagement: React.FC = () => {
                         <span className="px-3 py-1 rounded-full text-sm bg-yellow-500/20 text-yellow-400 font-semibold">
                           Admin
                         </span>
+                      ) : user.role === "staff" ? (
+                        <span className="px-3 py-1 rounded-full text-sm bg-teal-500/20 text-teal-400 font-semibold">
+                          Nhân viên
+                        </span>
                       ) : (
                         <span className="px-3 py-1 rounded-full text-sm bg-blue-500/20 text-blue-400">
                           Khách hàng
@@ -610,7 +614,9 @@ const UserManagement: React.FC = () => {
             className="bg-white/90 backdrop-blur-md rounded-2xl border border-teal-200/30 p-6 max-w-md w-full"
             onClick={(e) => e.stopPropagation()}
           >
-            <h3 className="text-xl font-bold text-gray-800 mb-6">Đổi mật khẩu</h3>
+            <h3 className="text-xl font-bold text-gray-800 mb-6">
+              Đổi mật khẩu
+            </h3>
             <form onSubmit={handleChangePassword} className="space-y-4">
               <div>
                 <label className="block text-sm font-medium text-gray-600 mb-2">

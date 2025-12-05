@@ -8,7 +8,7 @@ const userSchema = new mongoose.Schema(
     email: { type: String },
     phone: { type: String, unique: true, sparse: true },
     address: { type: String },
-    role: { type: String, enum: ["admin", "user"], default: "user" },
+    role: { type: String, enum: ["admin", "staff", "user"], default: "user" },
     isActive: { type: Boolean, default: true },
     // Thông tin khách hàng (chỉ dành cho role = 'user')
     totalOrders: { type: Number, default: 0 },

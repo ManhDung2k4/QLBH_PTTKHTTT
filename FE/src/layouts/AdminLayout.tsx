@@ -13,8 +13,9 @@ import {
   MdPeople,
   MdReceipt,
 } from "react-icons/md";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import { logout } from "@/store/UserReducer";
+import type { RootState } from "@/store/store";
 
 const AdminLayout: React.FC = () => {
   const [sidebarOpen, setSidebarOpen] = useState(true);
@@ -22,6 +23,7 @@ const AdminLayout: React.FC = () => {
 
   const dispatch = useDispatch();
   const navigate = useNavigate();
+  const user = useSelector((state: RootState) => state.user.user);
 
   const handleLogout = () => {
     dispatch(logout());
@@ -205,7 +207,7 @@ const AdminLayout: React.FC = () => {
                     <MdPerson size={20} className="text-white" />
                   </div>
                   <span className="font-medium hidden md:block">
-                    Admin User
+                    {user?.fullName || "Admin"}
                   </span>
                   <MdKeyboardArrowDown
                     size={20}

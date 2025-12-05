@@ -6,7 +6,7 @@ export interface User {
   email?: string;
   phone?: string;
   address?: string;
-  role: "admin" | "user";
+  role: "admin" | "staff" | "user";
   isActive?: boolean;
   totalOrders?: number;
   totalSpent?: number;
